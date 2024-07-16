@@ -8,3 +8,6 @@ Para el uso de DNS por bind:
 Verificar tener conexion a internet
 apt update
 apt upgrade (si fuese necesario)
+Para el CMS que se instale, antes instalar los paquetes de PHP:
+sudo apt-get install php php-mysql php-gd php-curl php-xml php-mbstring php-json php-zip php-fileinfo php-intl php-exif php-opcache php-imagick php-memcached php-soap php-ldap php-gmp
+
