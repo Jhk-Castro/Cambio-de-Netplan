@@ -41,9 +41,7 @@ Para el CMS que se instale, antes instalar los paquetes de PHP:
 ## Script: mail-server.sh
 Para el servidor de correo:
 - El `admin@tudominio.com` no tiene contraseña cuando se crea por primera vez con el script.
-- Utilizar el siguiente comando para los permisos del archivo:
-    ```sh
-    chmod +x mail-server.sh
-    ```
+- Verificar tener la base de datos de mariadb activa.
+
 
 
