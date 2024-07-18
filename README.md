@@ -24,7 +24,7 @@
 
 6. Cuando modificas algo en la base de datos de MariaDB, se debe reinstalar o verificar que la base de datos siga funcionando.
 
-7. Para el script de Raid verificar que no tenga un montaje definido en esta carpeta 
+7. Para el script de Raid verificar que no tenga un montaje definido en esta carpeta:
    ```sh
    nano /etc/fstab
    ```
