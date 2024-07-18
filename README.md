@@ -24,6 +24,9 @@
 
 6. Cuando modificas algo en la base de datos de MariaDB, se debe reinstalar o verificar que la base de datos siga funcionando.
 
+## Script: BD-mariadb.sh
+Para esta instalación, tener en cuenta que lo instala de manera básica y que al reiniciar su servidor puede que lo tenga que reinstalar. 
+
 ## Script: 1er-cambio-ip.sh
 Para el cambio de IP:
 
