@@ -26,17 +26,11 @@
 
 ## Script: 1er-cambio-ip.sh
 Para el cambio de IP:
-- Utilizar el siguiente comando para los permisos del archivo:
-    ```sh
-    chmod +x 1er-cambio-ip.sh
-    ```
+
 
 ## Script: bind9_manager.sh
 Para el uso de DNS por bind:
-- Utilizar el siguiente comando para los permisos del archivo:
-    ```sh
-    chmod +x bind9_manager.sh
-    ```
+
 
 ## Script: cms-web.sh
 Para el CMS que se instale, antes instalar los paquetes de PHP:
